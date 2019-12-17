@@ -2,4 +2,8 @@ hello
 this is root user
 second modify
 third modify
+<<<<<<< HEAD
 change in develop
+=======
+this is master branch
+>>>>>>> master
